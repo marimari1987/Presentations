@@ -35,6 +35,28 @@ Das Beispiel basiert auf folgender wissenschaftlicher Arbeit:
 - [Fuzzy Control Präsentation (PPTX)](./FuzzyControl.pptx)
 
 ---
+---
+## Multiagentensystem Hämostase
+
+Dieser Auszug aus einer Präsenationen zum Thema "Multiagentensysteme" ist der Eigenateil einer größeren Präsentation, die in Gruppenarbeit entstanden ist.
+Sie behandelt die theoretischen Grundlagen hinter der Blutgerinnung (**Hämostase**) und die Anwendung eines Multiagentensystems auf diesen Vorgang.
+
+### Ziel 
+Ziel der Präsentation ist es die Hintergünde der Blutgerinnung besonders fachfremden Personen nahezubringen ohne auf die komplexen Details einzugehen 
+und damit die Anwendung eines einfachen Programmes basierend auf einem Multiagentensystem (MAS) einzuleiten und die Motivation hierfür darzustellen.
+
+### Refenzen
+Bild Gerinnungskaskade: Bildquelle Podcast: © Midjourney, https://flexikon.doccheck.com/de/Gerinnungsfaktor
+weitere Bilder aus Titel	Es war einmal … das Leben
+Originaltitel	Il était une fois… la Vie
+
+---
+
+### Dateien
+- [Multiagentensystem Hämostase (pdf) ](.\MultiagentensystemHämostase.pdf)
+- [Multiagentensystem Hämostase (pdf) ](.\MultiagentensystemHämostase.pptx)
+
+---
 
 ### Hinweis
 Diese Materialien wurden ausschließlich zu Lehr- und Demonstrationszwecken im Rahmen eines universitären Praktikums erstellt.  
