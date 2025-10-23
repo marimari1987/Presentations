@@ -36,25 +36,27 @@ Das Beispiel basiert auf folgender wissenschaftlicher Arbeit:
 
 ---
 ---
+
 ## Multiagentensystem Hämostase
 
-Dieser Auszug aus einer Präsenationen zum Thema "Multiagentensysteme" ist der Eigenateil einer größeren Präsentation, die in Gruppenarbeit entstanden ist.
-Sie behandelt die theoretischen Grundlagen hinter der Blutgerinnung (**Hämostase**) und die Anwendung eines Multiagentensystems auf diesen Vorgang.
+Dieser Abschnitt stammt aus einer Präsentation zum Thema **„Multiagentensysteme“** und bildet den **Eigenanteil** einer größeren Gruppenarbeit.  
+Die Präsentation behandelt die **theoretischen Grundlagen der Blutgerinnung (Hämostase)** sowie die Motivation der **Anwendung eines Multiagentensystems (MAS)** zur Modellierung dieses biologischen Prozesses.
 
-### Ziel 
-Ziel der Präsentation ist es die Hintergünde der Blutgerinnung besonders fachfremden Personen nahezubringen ohne auf die komplexen Details einzugehen 
-und damit die Anwendung eines einfachen Programmes basierend auf einem Multiagentensystem (MAS) einzuleiten und die Motivation hierfür darzustellen.
+### Ziel
+Ziel der Präsentation ist es, die Hintergründe der Blutgerinnung auch **fachfremden Personen verständlich** zu erklären, ohne sich in komplexen biochemischen Details zu verlieren.  
 
-### Refenzen
-Bild Gerinnungskaskade: Bildquelle Podcast: © Midjourney, https://flexikon.doccheck.com/de/Gerinnungsfaktor
-weitere Bilder aus Titel	Es war einmal … das Leben
-Originaltitel	Il était une fois… la Vie
+### Referenzen
+- **Bild Gerinnungskaskade:**  
+  Quelle: [DocCheck Flexikon – Gerinnungsfaktor](https://flexikon.doccheck.com/de/Gerinnungsfaktor)  
+  Urheberrechtshinweis: © Midjourney (Verwendung im Rahmen eines wissenschaftlichen Podcasts)
+- **Weitere Abbildungen:**  
+  Aus der TV-Serie *„Es war einmal … das Leben“* (*Originaltitel:* *Il était une fois… la Vie*)
 
 ---
 
 ### Dateien
-- [Multiagentensystem Hämostase (pdf) ](.\MultiagentensystemHämostase.pdf)
-- [Multiagentensystem Hämostase (pdf) ](.\MultiagentensystemHämostase.pptx)
+- [Multiagentensystem Hämostase (PDF)](./MultiagentensystemHaemostase.pdf)  
+- [Multiagentensystem Hämostase (PPTX)](./MultiagentensystemHaemostase.pptx)
 
 ---
 
