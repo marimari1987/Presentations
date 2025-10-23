@@ -31,7 +31,7 @@ Das Beispiel basiert auf folgender wissenschaftlicher Arbeit:
 ---
 
 ### Dateien
-- [Fuzzy Control Präsentation (PDF)](./FuzzyControl/FuzzyControl.pdf)
+- [Fuzzy Control Präsentation (PDF)](./FuzzyControl.pdf)
 - [Fuzzy Control Präsentation (PPTX)](./FuzzyControl/FuzzyControl.pptx)
 
 ---
